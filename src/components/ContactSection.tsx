@@ -28,9 +28,9 @@ const ContactSection = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "youssef@example.com", href: "mailto:youssef@example.com" },
+    { icon: Mail, label: "Email", value: "youssefhannachi194@gmail.com", href: "mailto:youssefhannachi194@gmail.com" },
     { icon: Phone, label: "Phone", value: "+1 234 567 890", href: "tel:+1234567890" },
-    { icon: MapPin, label: "Location", value: "Your City, Country", href: "#" },
+    { icon: MapPin, label: "Location", value: "Tunis, Tunisia", href: "#" },
   ];
 
   const socialLinks = [
